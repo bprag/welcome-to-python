@@ -1,0 +1,7 @@
+print("welcome to python programming world")
+print("learing new things by easy and simple way")
+#program for basic math calculation
+a=3
+b=4
+c=a+b
+print(c)
