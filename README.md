@@ -1,2 +1,2 @@
 # welcome-to-python
-simple program of python
+simple program of python language
